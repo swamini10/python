@@ -3,7 +3,7 @@
 
 num1 = int(input("Enter 1st number : "))
 num2 = int(input("Enter 2nd number : "))
-choice = input("Enter the operator (+ - * / % // **)")
+choice = input("Enter the operator (+ - * / % // **) : ")
 
 if choice == '+':
     print(f"Addition : {num1 + num2}")
